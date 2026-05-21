@@ -25,7 +25,7 @@ rm -rf ~/.claude/skills/spark
 - Asks one question at a time to clarify your idea
 - Proposes 2–3 approaches with tradeoffs and a recommendation
 - Presents the design in sections for your approval
-- Writes the final spec to `docs/superpowers/specs/YYYY-MM-DD-<topic>-design.md` and commits it
+- Writes the final spec to `docs/spark/YYYY-MM-DD-<topic>-design.md` and commits it
 - **Stops there.** Hands the spec path back and ends the turn
 
 **When to use:**
