@@ -1,6 +1,6 @@
 ---
 name: spark
-version: 0.1.1
+version: 0.1.2
 description: "Use when the user wants to brainstorm an idea or design a feature/spec. Explores intent and requirements through dialogue, then writes a spec document to docs/spark/ and STOPS. Does not auto-chain to implementation planning or any other skill."
 ---
 
