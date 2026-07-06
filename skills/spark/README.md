@@ -6,9 +6,9 @@ See [SKILL.md](./SKILL.md) for the full skill content.
 
 ## Provenance
 
-Extracted from [`brainstorming`](https://github.com/obra/superpowers/tree/v6.0.0/skills/brainstorming) in [obra/superpowers](https://github.com/obra/superpowers) v6.0.0 (MIT, Jesse Vincent).
+Extracted from [`brainstorming`](https://github.com/obra/superpowers/tree/v6.1.1/skills/brainstorming) in [obra/superpowers](https://github.com/obra/superpowers) v6.1.1 (MIT, Jesse Vincent).
 
-This fork keeps the Superpowers 6.0 brainstorming updates, including the just-in-time visual companion flow and the updated authenticated/restartable companion server.
+This fork keeps the Superpowers 6.1.1 brainstorming updates, including the just-in-time visual companion flow and the updated authenticated/restartable companion server.
 
 ## Spark Changes
 
@@ -22,7 +22,7 @@ Local changes from upstream:
 - The optional `elements-of-style` cross-skill dependency is removed.
 - The visual companion reference points to this skill directory's `visual-companion.md`.
 
-## Preserved From Superpowers 6.0
+## Preserved From Superpowers 6.1.1
 
 - 9-step brainstorming checklist and hard gate before implementation.
 - Just-in-time visual companion offer: only when a question is clearer shown than described.
